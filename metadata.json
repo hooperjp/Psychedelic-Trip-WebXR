@@ -1,0 +1,6 @@
+{
+  "name": "NeuroDelic XR: WebXR Psychedelic Phenomenology & Audio-Reactive Fractal Lab",
+  "description": "Immersive WebXR virtual reality simulation of psychedelic phenomenology (VRP) combining sphere-traced 3D CSG/IFS fractals, DeepDream spatiotemporal visual distortions, and real-time audio frequency analysis for Default Mode Network modulation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
